@@ -13,5 +13,5 @@ A Javascript implementation of the Game of 21. This is similar to Black jack but
 
 
 **Technical Details**
-Language: Pure Javascript
-3rd Party Libraries: Iconion, Google Fonts
+Language: Pure Javascript  
+3rd Party Libraries: Iconion, Google Fonts  
