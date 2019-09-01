@@ -1,0 +1,27 @@
+{
+  "name": "gameof21",
+  "version": "1.0.0",
+  "description": "A game of 21 with modified rules.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"nodemon src/index.js",
+    "start":"node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amlana21/dicegame.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amlana21/dicegame/issues"
+  },
+  "homepage": "https://github.com/amlana21/dicegame#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
